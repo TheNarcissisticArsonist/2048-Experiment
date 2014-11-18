@@ -1,0 +1,34 @@
+div {
+  display: inline-block;
+}
+div.b2048 {
+  width: 100px;
+  height: 100px;
+  background-color: #dddddd;
+  text-align: center;
+  margin: 2px 0px;
+}
+div.b2048 p {
+  margin: 41px 0px;
+}
+#reset {
+  width: 100px;
+  height: 50px;
+  background-color: red;
+  text-align: center;
+}
+#reset p {
+  margin: 16px 0px;
+}
+#newGame {
+  width: 100px;
+  height: 50px;
+  background-color: blue;
+  text-align: center;
+}
+#newGame p {
+  margin: 16px 0px;
+}
+body {
+  background-color: #cccccc;
+}
